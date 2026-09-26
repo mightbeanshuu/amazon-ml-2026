@@ -1,0 +1,17 @@
+{
+ "id": "anshuaman0904/er-v6",
+ "title": "er-v6",
+ "code_file": "v6.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": true,
+ "enable_gpu": false,
+ "enable_internet": false,
+ "dataset_sources": [
+  "anshuaman0904/amc-2026",
+  "anshuaman0904/er-v5-code",
+  "anshuaman0904/pip-wheels"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

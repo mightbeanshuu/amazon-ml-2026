@@ -1,0 +1,18 @@
+{
+ "id": "anshuaman0904/round6-full",
+ "title": "round6-full",
+ "code_file": "round6_full.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": true,
+ "enable_gpu": false,
+ "enable_internet": false,
+ "dataset_sources": [
+  "anshuaman0904/amc-2026",
+  "anshuaman0904/pip-wheels"
+ ],
+ "competition_sources": [],
+ "kernel_sources": [
+  "anshuaman0904/stage1-all"
+ ]
+}

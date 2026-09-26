@@ -1,0 +1,8 @@
+05:31:01 dataset READY
+05:31:05 stage1 push: Kernel version 2 successfully pushed.  Please check progress at https://www.kaggle.com/code/anshuaman0904/stage1-all
+05:31:08 stage1: anshuaman0904/stage1-all has status "KernelWorkerStatus.RUNNING"
+05:33:10 stage1: anshuaman0904/stage1-all has status "KernelWorkerStatus.RUNNING"
+05:35:11 stage1: anshuaman0904/stage1-all has status "KernelWorkerStatus.RUNNING"
+05:37:14 stage1: anshuaman0904/stage1-all has status "KernelWorkerStatus.COMPLETE"
+05:37:18 round6 push: Kernel version 1 successfully pushed.  Please check progress at https://www.kaggle.com/code/anshuaman0904/round6-full
+05:37:18 round6 QUEUED — poll: /Users/mac/amazon-ml-2026/kagglecli/bin/kaggle kernels status anshuaman0904/round6-full

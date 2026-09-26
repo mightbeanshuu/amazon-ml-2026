@@ -1,0 +1,15 @@
+{
+ "id": "anshuaman0904/er-probe",
+ "title": "er-probe",
+ "code_file": "probe.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": true,
+ "enable_gpu": false,
+ "enable_internet": false,
+ "dataset_sources": [
+  "anshuaman0904/amc-2026"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

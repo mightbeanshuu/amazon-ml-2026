@@ -1,0 +1,6 @@
+/Users/mac/amazon-ml-2026/student_resource/dataset/train/train_source1.tsv: 2206821 rows, countries ['india', 'us'] in 187s
+/Users/mac/amazon-ml-2026/student_resource/dataset/train/train_source2.tsv: 5034616 rows, countries ['india', 'us'] in 287s
+/Users/mac/amazon-ml-2026/student_resource/dataset/train/train_source3.tsv: 5285603 rows, countries ['india', 'us'] in 268s
+/Users/mac/amazon-ml-2026/student_resource/dataset/test/test_source1.tsv: 1732544 rows, countries ['france', 'india', 'us'] in 97s
+/Users/mac/amazon-ml-2026/student_resource/dataset/test/test_source2.tsv: 4887273 rows, countries ['france', 'india', 'us'] in 255s
+/Users/mac/amazon-ml-2026/student_resource/dataset/test/test_source3.tsv: 5082316 rows, countries ['france', 'india', 'us'] in 246s

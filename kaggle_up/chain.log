@@ -1,0 +1,7 @@
+05:08:45 dataset READY
+05:08:49 stage1 push: Kernel version 1 successfully pushed.  Please check progress at https://www.kaggle.com/code/anshuaman0904/stage1-all
+05:08:51 stage1: anshuaman0904/stage1-all has status "KernelWorkerStatus.RUNNING"
+05:10:55 stage1: anshuaman0904/stage1-all has status "KernelWorkerStatus.RUNNING"
+05:12:56 stage1: anshuaman0904/stage1-all has status "KernelWorkerStatus.RUNNING"
+05:14:57 stage1: anshuaman0904/stage1-all has status "KernelWorkerStatus.ERROR"
+05:14:57 STAGE1 FAILED
